@@ -61,11 +61,31 @@ done < <(find . -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name 
 
 [ $root_count -gt 0 ] && echo '</tr></table>' >> README.md && echo "" >> README.md
 
-# Process subdirectories
-for dir in */; do
-  [ -d "$dir" ] || continue
+# Process subdirectories (most recent month first, sorted by YY-MM in folder name)
+# Extract year-month from folder names like "26 - 02 - February" and sort descending
+sorted_dirs=()
+while IFS= read -r line; do
+  sorted_dirs+=("$line")
+done < <(
+  for d in */; do
+    [ -d "$d" ] || continue
+    dir_name="${d%/}"
+    [[ "$dir_name" == .git* ]] && continue
+    # Extract YY-MM from "YY - MM - MonthName" format
+    if [[ "$dir_name" =~ ^([0-9]+)[[:space:]]*-[[:space:]]*([0-9]+) ]]; then
+      year="${BASH_REMATCH[1]}"
+      month="${BASH_REMATCH[2]}"
+      # Format as YYMM for sorting (use 10# to force decimal interpretation)
+      printf "%02d%02d %s\n" "$((10#$year))" "$((10#$month))" "$d"
+    else
+      # Fallback: put non-matching folders at the end
+      printf "9999 %s\n" "$d"
+    fi
+  done | sort -rn | cut -d' ' -f2-
+)
+
+for dir in "${sorted_dirs[@]}"; do
   dir_name="${dir%/}"
-  [[ "$dir_name" == .git* ]] && continue
   
   dir_count=0
   while IFS= read -r -d '' f; do

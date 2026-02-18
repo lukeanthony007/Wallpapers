@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - '*.jpg'
-      - '*.jpeg'
-      - '*.png'
+      - '**/*.jpg'
+      - '**/*.jpeg'
+      - '**/*.png'
       - '.github/scripts/generate-previews.sh'
   workflow_dispatch:
 
