@@ -1,1 +1,1 @@
-scripts/*.sh linguist-detectable=false
+.github/scripts/*.sh linguist-detectable=false

@@ -7,7 +7,7 @@ on:
       - '*.jpg'
       - '*.jpeg'
       - '*.png'
-      - 'scripts/generate-previews.sh'
+      - '.github/scripts/generate-previews.sh'
   workflow_dispatch:
 
 jobs:
@@ -24,12 +24,12 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y imagemagick
 
       - name: Generate previews
-        run: bash scripts/generate-previews.sh
+        run: bash .github/scripts/generate-previews.sh
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add readme-preview/ README.md
+          git add .github/readme-preview/ README.md
           git diff --staged --quiet || git commit -m "Update preview thumbnails [skip ci]"
           git push
