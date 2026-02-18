@@ -24,10 +24,6 @@ done
 
 # Build README with preview grid: 3 per row, thumb links to full-res
 cat > README.md << 'README_HEAD'
-## Description
-
-what I choose to look at
-
 README_HEAD
 
 echo '<table align="center"><tr>' >> README.md

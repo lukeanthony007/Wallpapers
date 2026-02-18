@@ -1,7 +1,3 @@
-## Description
-
-what I choose to look at
-
 <table align="center"><tr>
   <td align="center"><a href="wallhaven-0j8mey.jpg"><img src="readme-preview/wallhaven-0j8mey.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-0j8mey"></a></td>
   <td align="center"><a href="wallhaven-0jjlyq.jpg"><img src="readme-preview/wallhaven-0jjlyq.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-0jjlyq"></a></td>
