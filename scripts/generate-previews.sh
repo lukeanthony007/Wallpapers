@@ -17,7 +17,7 @@ for f in *.jpg *.jpeg *.png; do
   base=${f%.*}
   thumb="$PREVIEW_DIR/${base}.jpg"
   if [ ! -f "$thumb" ] || [ "$f" -nt "$thumb" ]; then
-    magick "$f" -resize "${THUMB_W}x${THUMB_H}^" -gravity center -extent "${THUMB_W}x${THUMB_H}" -quality "$QUALITY" "$thumb"
+    magick "$f" -auto-orient -resize "${THUMB_W}x${THUMB_H}^" -gravity center -extent "${THUMB_W}x${THUMB_H}" -quality "$QUALITY" "$thumb"
     echo "  $f -> $thumb"
   fi
 done
@@ -37,7 +37,7 @@ for f in *.jpg *.jpeg *.png; do
   thumb="$PREVIEW_DIR/${base}.jpg"
   [ -f "$thumb" ] || continue
   [ $i -gt 0 ] && [ $((i % 3)) -eq 0 ] && echo '</tr><tr>' >> README.md
-  echo "  <td align=\"center\"><a href=\"$f\"><img src=\"$thumb\" width=\"320\" alt=\"$base\"></a></td>" >> README.md
+  echo "  <td align=\"center\"><a href=\"$f\"><img src=\"$thumb\" width=\"320\" height=\"180\" style=\"object-fit: cover;\" alt=\"$base\"></a></td>" >> README.md
   i=$((i + 1))
 done
 echo '</tr></table>' >> README.md
