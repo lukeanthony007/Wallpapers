@@ -74,8 +74,8 @@ done < <(
       # Format as YYMM for sorting (use 10# to force decimal interpretation)
       printf "%02d%02d %s\n" "$((10#$year))" "$((10#$month))" "$d"
     else
-      # Fallback: put non-matching folders at the end
-      printf "9999 %s\n" "$d"
+      # Fallback: put non-matching folders at the very end
+      printf "0000 %s\n" "$d"
     fi
   done | sort -rn | cut -d' ' -f2-
 )
