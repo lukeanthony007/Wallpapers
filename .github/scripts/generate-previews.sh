@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Generate readme-preview/ thumbnails from all wallpapers (recursive) and update README.md.
-# Requires ImageMagick (magick). Run from repo root.
+# Requires ImageMagick (convert). Run from repo root.
 
 set -e
 cd "$(git rev-parse --show-toplevel)"
@@ -32,7 +32,7 @@ while IFS= read -r -d '' f; do
   
   # Generate thumbnail if needed
   if [ ! -f "$thumb" ] || [ "$f" -nt "$thumb" ]; then
-    magick "$f" -auto-orient -resize "${THUMB_W}x${THUMB_H}^" -gravity center -extent "${THUMB_W}x${THUMB_H}" -quality "$QUALITY" "$thumb"
+    convert "$f" -auto-orient -resize "${THUMB_W}x${THUMB_H}^" -gravity center -extent "${THUMB_W}x${THUMB_H}" -quality "$QUALITY" "$thumb"
     echo "  $rel_path -> $thumb"
   fi
 done < <(find . -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" \) ! -path "./.git/*" ! -path "./.github/*" -print0)
