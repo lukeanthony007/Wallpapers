@@ -1,3 +1,87 @@
+## 26 - 07 - July
+
+<table align="center"><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-0projj.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-0projj.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-0projj"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-0qv2dn.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-0qv2dn.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-0qv2dn"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-21o679.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-21o679.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-21o679"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-21oo8x.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-21oo8x.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-21oo8x"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-3ke6ey.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-3ke6ey.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-3ke6ey"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-3q6d2y.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-3q6d2y.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-3q6d2y"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-422d9y.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-422d9y.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-422d9y"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-4271qy.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-4271qy.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-4271qy"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-45e271.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-45e271.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-45e271"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-45wzw9.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-45wzw9.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-45wzw9"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-4xxv63.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-4xxv63.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-4xxv63"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-5ym238.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-5ym238.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-5ym238"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-6lp88w.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-6lp88w.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-6lp88w"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-6lpm2w.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-6lpm2w.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-6lpm2w"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-6lpx7q.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-6lpx7q.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-6lpx7q"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-738qjo.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-738qjo.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-738qjo"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-7jeemo.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-7jeemo.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-7jeemo"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-7jeozo.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-7jeozo.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-7jeozo"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-8g9172.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-8g9172.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-8g9172"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-8g96kk.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-8g96kk.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-8g96kk"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-8g9jgk.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-8g9jgk.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-8g9jgk"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-95gwvx.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-95gwvx.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-95gwvx"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-9o927x.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-9o927x.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-9o927x"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-9o9398.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-9o9398.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-9o9398"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-d8o3m3.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-d8o3m3.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-d8o3m3"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-d8o77l.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-d8o77l.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-d8o77l"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-d8ojrl.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-d8ojrl.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-d8ojrl"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-d8orko.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-d8orko.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-d8orko"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-d8owel.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-d8owel.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-d8owel"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-e86v1l.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-e86v1l.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-e86v1l"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-gpvrod.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-gpvrod.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-gpvrod"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-gwm5wq.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-gwm5wq.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-gwm5wq"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-gwmopl.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-gwmopl.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-gwmopl"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-jey1qy.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-jey1qy.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-jey1qy"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-jeyjkm.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-jeyjkm.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-jeyjkm"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-jeyz3q.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-jeyz3q.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-jeyz3q"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-k8lo77.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-k8lo77.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-k8lo77"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-k8lyg6.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-k8lyg6.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-k8lyg6"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-lyj56q.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-lyj56q.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-lyj56q"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-mlgooy.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-mlgooy.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-mlgooy"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-mlgxe1.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-mlgxe1.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-mlgxe1"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-mpelv1.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-mpelv1.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-mpelv1"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-og66w7.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-og66w7.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-og66w7"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-og6z5m.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-og6z5m.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-og6z5m"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-po711m.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-po711m.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-po711m"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-po7exj.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-po7exj.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-po7exj"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-po7g99.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-po7g99.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-po7g99"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-po7v7j.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-po7v7j.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-po7v7j"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-po7w9j.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-po7w9j.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-po7w9j"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-qrmx2d.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-qrmx2d.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-qrmx2d"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-rdp187.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-rdp187.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-rdp187"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-rqp8yj.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-rqp8yj.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-rqp8yj"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-rqpxv7.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-rqpxv7.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-rqpxv7"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-rqpzgw.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-rqpzgw.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-rqpzgw"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-w5d3wp.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-w5d3wp.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-w5d3wp"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-w5dlj6.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-w5dlj6.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-w5dlj6"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-x1ge3d.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-x1ge3d.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-x1ge3d"></a></td>
+</tr><tr>
+  <td align="center"><a href="26 - 07 - July/wallhaven-xed76d.jpg"><img src=".github/readme-preview/26 - 07 - July/wallhaven-xed76d.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-xed76d"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-xedoo3.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-xedoo3.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-xedoo3"></a></td>
+  <td align="center"><a href="26 - 07 - July/wallhaven-yq2yjg.png"><img src=".github/readme-preview/26 - 07 - July/wallhaven-yq2yjg.jpg" width="320" height="180" style="object-fit: cover;" alt="wallhaven-yq2yjg"></a></td>
+</tr></table>
+
 ## 26 - 06 - June
 
 <table align="center"><tr>
